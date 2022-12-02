@@ -1,0 +1,22 @@
+# Comandos importantes
+
+dir = listar 
+
+cd = mudar de pasta 
+
+cd .. = voltar à pasta anterior 
+
+cls = clear screen 
+ctrl+ l = clear screen
+
+Tecla tab = completa o nome da pasta 
+
+mkdir = criar pasta 
+
+echo = print no terminal o que digitei 
+
+Del = deletar
+
+rmdir = remover diretório (pasta) 
+
+ Ver pasta oculta: ls -a 
